@@ -4,7 +4,7 @@
 
 
 
--- tables2
+-- tables
 -- Table TBNhanVien
 CREATE TABLE TBNhanVien (
     Ma_NV varchar(10)    NOT NULL ,
